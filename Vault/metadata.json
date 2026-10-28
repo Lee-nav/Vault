@@ -1,8 +1,0 @@
-{
-  "name": "Vault - Flashcard Study App",
-  "description": "Quiet Clarity flashcard study app. Make decks, flip cards, and see what to review next.",
-  "requestFramePermissions": [],
-  "majorCapabilities": [
-    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
-  ]
-}
